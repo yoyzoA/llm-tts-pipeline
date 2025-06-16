@@ -1,0 +1,4 @@
+# Ignore Python venv and secrets
+.env
+__pycache__/
+*.pyc
